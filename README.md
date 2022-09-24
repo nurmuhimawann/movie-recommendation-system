@@ -16,6 +16,8 @@
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
   </a
 </p>
+    
+<div align="center">
 
 | Profile       |                                           |
 | ------------- | ----------------------------------------- |
@@ -24,7 +26,7 @@
 | Progam        | Studi Independen Batch 3 - Kampus Merdeka |
 | Submission    | Proyek Machine Learning Terapan           |
 
-
+</div>
 
 <p align='center'>
     <img src ="https://github.com/nurmuhimawann/MLT2-Dicoding/blob/main/images/hero-images.png?raw=true" alt="netflix-images">
